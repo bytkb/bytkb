@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on my [Portfolio](https://www.bytkb.dev)
 - 🌱 I’m currently learning Blender
-- 📫 How to reach me: [@octocat](mailto:tristan.brattinga@gmail.com)
+- 📫 How to reach me: [mail](mailto:tristan.brattinga@gmail.com)
 - ⚡ Fun fact: Bananas are berries, but strawberries aren’t.
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=bytkb&show_icons=true)
