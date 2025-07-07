@@ -1,4 +1,4 @@
-## Hi there 👋
+
 
 <!--
 **bytkb/bytkb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,10 +15,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# 👋 Hi, I'm ByTKB
+# 👋 Hi, I'm ByTKB (By Tristan Kimo Brattinga)
 
-- 🔭 I’m currently working on [MyCoolProject](https://github.com/octocat/mycoolproject)
-- 🌱 I’m currently learning Rust and WebAssembly
-- 📫 How to reach me: [@octocat](https://twitter.com/octocat)
+- 🔭 I’m currently working on my [Portfolio](https://www.bytkb.dev)
+- 🌱 I’m currently learning Blender
+- 📫 How to reach me: [@octocat](mailto:tristan.brattinga@gmail.com)
+- ⚡ Fun fact: Bananas are berries, but strawberries aren’t.
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=bytkb&show_icons=true)
