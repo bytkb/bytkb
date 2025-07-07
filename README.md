@@ -14,3 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+# 👋 Hi, I'm ByTKB
+
+- 🔭 I’m currently working on [MyCoolProject](https://github.com/octocat/mycoolproject)
+- 🌱 I’m currently learning Rust and WebAssembly
+- 📫 How to reach me: [@octocat](https://twitter.com/octocat)
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=bytkb&show_icons=true)
